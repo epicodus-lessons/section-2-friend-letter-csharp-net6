@@ -11,7 +11,7 @@ This is a finished example repo corresponding to the LearnHowToProgram.com walkt
 
 ## Available Routes
 
-* http://localhost:5000/
-* http://localhost:5000/hello
-* http://localhost:5000/goodbye
-* http://localhost:5000/form
+* localhost:5000/
+* localhost:5000/hello
+* localhost:5000/goodbye
+* localhost:5000/form
